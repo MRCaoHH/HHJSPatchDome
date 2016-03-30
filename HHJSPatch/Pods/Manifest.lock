@@ -1,0 +1,15 @@
+PODS:
+  - JSPatch (0.2):
+    - JSPatch/Core (= 0.2)
+  - JSPatch/Core (0.2)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - JSPatch (~> 0.2)
+  - MBProgressHUD (~> 0.9.1)
+
+SPEC CHECKSUMS:
+  JSPatch: 23dcceeec8f8357644f8ef70eb002ef2dbd830de
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+COCOAPODS: 0.39.0
